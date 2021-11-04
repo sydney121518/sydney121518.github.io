@@ -1,4 +1,5 @@
 ---
+layout: post
 title: About me 
 ---
 My name is Sydney Crawford and I recently studied abroad for five weeks in Granada, Spain where I studied Spanish and soaked up the culture. 
