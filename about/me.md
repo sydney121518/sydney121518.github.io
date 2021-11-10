@@ -1,6 +1,12 @@
 ---
 layout: default
 title: About me 
+author:
+  name: Sydney Crawford 
+  url: https://sydney121518.github.io/
+Categories:
+- about
+- welcome
 ---
 My name is Sydney Crawford and I recently studied abroad for five weeks in Granada, Spain where I studied Spanish and soaked up the culture. 
 
