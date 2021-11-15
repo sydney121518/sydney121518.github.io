@@ -4,7 +4,7 @@ title: First Post
 author:
   name: Sydney Crawford 
   url: https://sydney121518.github.io/
-Categories:
+categories:
 - about
 - welcome
 ---
