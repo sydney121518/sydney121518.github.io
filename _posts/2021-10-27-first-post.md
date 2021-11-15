@@ -6,7 +6,6 @@ author:
   url: https://sydney121518.github.io/
 categories:
 - about
-- welcome
 ---
 
 This is my **first post**.
